@@ -1,0 +1,35 @@
+body {
+    background-image: url(https://t4.ftcdn.net/jpg/06/23/07/91/360_F_623079123_WTDD4oaE2veYCWDmfGIu9mmQ5PGkxXcB.jpg);
+background-repeat:no-repeat ;
+background-size: cover;
+background-attachment: fixed;
+text-align: center;
+
+}
+h2{ 
+    display: inline-block;
+ background-color:rgb(165, 190, 650); 
+color:black;
+width: 130px;
+padding: 10px;
+border-radius: 20px;
+font-size: 30px;
+}
+
+.btn button{
+border-radius: 3px;
+display: inline-block;
+width: 120px;
+padding: 10px;
+font-size: 20px;
+}
+ h1{
+    background-color:rgb(165, 190, 650); 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    display: inline;
+    width: 500px;
+    padding: 8px;
+    border-radius:20px;
+
+} 
